@@ -61,6 +61,31 @@
   - Функции: Отображение данных в интерактивной таблице (dash_table.DataTable), обработка действий пользователя (кнопки, ввод данных).
 - Загрузка данных: Requests
   - Роль: Первоначальная загрузка данных из удалённого источника (GitHub), если файл chipotle_local.tsv отсутствует.
+
+### 1. Изображение главной таблицы с данными
+![image](https://github.com/user-attachments/assets/e113b7d2-d884-4915-aea1-de04d37d3cdf)
+
+### 2. Изображение формы добавление заказа
+![image](https://github.com/user-attachments/assets/7eb9ea6d-6573-4421-a036-66325fdc1e15)
+
+### 3. Пример валидации
+![image](https://github.com/user-attachments/assets/1208ea67-5dd5-4f32-92a4-c68cd87ccafd)
+
+### 4. Пример ответа на добавление заказа
+![image](https://github.com/user-attachments/assets/d7a56084-68d6-4c5b-a900-beafb529b90c)
+
+### 5. Изменение данных в режиме реального времени
+![image](https://github.com/user-attachments/assets/cf1a8bd8-a70d-47de-b269-f4967efa93a7)
+
+### 6. Пример сортировки по конкретному столбцу (сортировка в обратно порядке по столбцу Quantity)
+![image](https://github.com/user-attachments/assets/b6ca5262-52d5-441f-9bfd-632c5523bb08)
+
+### 7. Фильтрация (по цене)
+![image](https://github.com/user-attachments/assets/974e1b02-fd3d-4629-9f42-56d9bdbb7b69)
+
+### 8. Удаление посредством крестика
+![image](https://github.com/user-attachments/assets/98f22c47-5464-401f-964f-162c0ebd2a9f)
+
 ## Заключение:
 
 Разработанная CRM-система на базе Dash Plotly предоставит удобный и эффективный инструмент для управления заказами. Пользователи смогут быстро и легко просматривать, добавлять, редактировать и удалять заказы, а также фильтровать и сортировать данные для более гибкого анализа.
